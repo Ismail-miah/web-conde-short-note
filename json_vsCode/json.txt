@@ -1,0 +1,29 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'fira code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 15,
+  // "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "security.workspace.trust.untrustedFiles": "open",
+  "emmet.excludeLanguages": [],
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*html": "html"
+  },
+  "editor.guides.bracketPairs": true,
+  "editor.fontWeight": "normal",
+  "explorer.compactFolders": false,
+  "diffEditor.ignoreTrimWhitespace": false
+}
